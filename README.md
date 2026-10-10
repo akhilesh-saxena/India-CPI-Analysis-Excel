@@ -34,4 +34,4 @@ Microsoft Excel: Pivot Tables, formulas (AVERAGE, CORREL), sorting, data cleanin
 - INDIA_CPI case study assignment.xlsx: raw data, cleaned data, pivots and analysis sheets.
 
 ## Author
-Akhilesh | Learning data analytics
+Akhilesh Saxena | Learning data analytics
